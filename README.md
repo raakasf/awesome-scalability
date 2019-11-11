@@ -89,7 +89,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Automate and Abstract: Lessons at Facebook](https://architecht.io/lessons-from-facebook-on-engineering-for-scale-f5716f0afc7a)
 * [AWS Do's and Don'ts](https://8thlight.com/blog/sarah-sunday/2017/09/15/aws-dos-and-donts.html)
 * [(UI) Design Doesn’t Scale - Stanley Wood, Design Director at Spotify](https://medium.com/@hellostanley/design-doesnt-scale-4d81e12cbc3e)
-* [Linux Performance](http://www.brendangregg.com/linuxperf.html)
+- [x] [Linux Performance](http://www.brendangregg.com/linuxperf.html)
 * [Building Fast and Resilient Web Applications - Ilya Grigorik](https://www.igvita.com/2016/05/20/building-fast-and-resilient-web-applications/)
 * [Accept Partial Failures, Minimize Service Loss](https://www.usenix.org/conference/srecon17asia/program/presentation/wang_daxin)
 * [Design for Loose-coupling](http://bulgerpartners.com/how-loosely-coupled-architectures-are-helping-the-modernization-of-legacy-software/)
