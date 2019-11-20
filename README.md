@@ -101,9 +101,9 @@ An updated and organized reading list for illustrating the patterns of scalable,
 
 ## Scalability
 - [ ] [Microservices and Orchestration](https://martinfowler.com/microservices/)
-	- [ ] [Container (8 parts) at Riot Games](https://engineering.riotgames.com/news/thinking-inside-container)
-	- [ ] [Containerization at Pinterest](https://medium.com/@Pinterest_Engineering/containerization-at-pinterest-92295347f2f3)
-	- [ ] [Evolution of Container Usage at Netflix](https://medium.com/netflix-techblog/the-evolution-of-container-usage-at-netflix-3abfc096781b)
+	- [x] [Container (8 parts) at Riot Games](https://engineering.riotgames.com/news/thinking-inside-container)
+	- [x] [Containerization at Pinterest](https://medium.com/@Pinterest_Engineering/containerization-at-pinterest-92295347f2f3)
+	- [x] [Evolution of Container Usage at Netflix](https://medium.com/netflix-techblog/the-evolution-of-container-usage-at-netflix-3abfc096781b)
 	- [ ] [Dockerizing MySQL at Uber](https://eng.uber.com/dockerizing-mysql/)
 	- [ ] [Testing of Microservices at Spotify](https://labs.spotify.com/2018/01/11/testing-of-microservices/)
 	- [ ] [Docker in Production at Treehouse](https://medium.com/treehouse-engineering/lessons-learned-running-docker-in-production-5dce99ece770)
@@ -122,7 +122,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	- [ ] [Microservices at Nubank](https://medium.com/building-nubank/microservices-at-nubank-an-overview-2ebcb336c64d)
 	- [ ] [GRIT: Protocol for Distributed Transactions across Microservices at eBay](https://tech.ebayinc.com/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/)
 - [ ] [Distributed Caching](https://www.wix.engineering/single-post/scaling-to-100m-to-cache-or-not-to-cache)
-	- [ ] [EVCache: Distributed In-memory Caching at Netflix](https://medium.com/netflix-techblog/caching-for-a-global-netflix-7bcc457012f1)
+	- [x] [EVCache: Distributed In-memory Caching at Netflix](https://medium.com/netflix-techblog/caching-for-a-global-netflix-7bcc457012f1)
 	- [ ] [EVCache Cache Warmer Infrastructure at Netflix](https://medium.com/netflix-techblog/cache-warming-agility-for-a-stateful-service-2d3b1da82642)
 	- [ ] [Memsniff: Robust Memcache Traffic Analyzer at Box](https://blog.box.com/blog/introducing-memsniff-robust-memcache-traffic-analyzer/)
 	- [ ] [Caching with Consistent Hashing and Cache Smearing at Etsy](https://codeascraft.com/2017/11/30/how-etsy-caches/)
